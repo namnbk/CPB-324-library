@@ -1,4 +1,6 @@
-
+import google.colab
+import pandas as pd
+import matplotlib.pyplot as plt
 
 def _upload_file():
     """
@@ -22,8 +24,8 @@ def upload_and_parse_excel():
     parse a column of data.
 
     This function will always parse 
-        the **"datasheet"** sheet, and
-        the **"data"** column 
+        the "DATASHEET sheet, and
+        the "DATA" column 
     from the excel. Thus, make sure to provide the matching excel file. 
 
     Returns:
