@@ -12,7 +12,8 @@ import CPB_Library
 ```
 
 ## Usage Example
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/your-username/your-repo/blob/main/your-notebook.ipynb](example/Example_1.ipynb))
+[View Notebook on GitHub](https://github.com/namnbk/CPB-324-library/blob/main/example/Example_1.ipynb)
+
 
 ## Documentation
 For a detailed documentation, refer to this source: [https://namnbk.github.io/CPB-324-library/](https://namnbk.github.io/CPB-324-library/)
