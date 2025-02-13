@@ -12,7 +12,7 @@ import CPB_Library
 ```
 
 ## Usage Example
-[View Notebook on GitHub](https://github.com/namnbk/CPB-324-library/blob/main/example/Example_1.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1awqKnDdb3F0jDlEm2YVhicfadW9kSU-f?usp=sharing)
 
 
 ## Documentation
