@@ -72,5 +72,4 @@ def frequency_table(raw_data):
     # Compute the frequency table
     frequencies = raw_data.value_counts()
     # Sort the values for display
-    sorted_frequencies = frequencies.sort_index()
-    sorted_frequencies
+    return frequencies.sort_index()
